@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.Header{
+    background-color: rgb(20, 31, 18);
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(133, 212, 130);
+}
+table{
+    color: rgb(127, 255, 182);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+}
+.Emoji{
+    display: block;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
